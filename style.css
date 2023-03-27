@@ -1,0 +1,74 @@
+body{
+    background-image: url(https://www.wallausaude.com.br/site/app/webroot/blog/wp-content/uploads/2019/07/15132-1360x765.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+h1{
+    color: black;
+    /* margin: 250px;
+    margin-top: 50px; */
+}
+
+
+
+label{
+    display: block;
+    color: white;
+    font-size: medium;
+    font-family: fantasy
+    
+   
+    
+}
+
+
+
+p{
+    color: white;
+    
+    font-family: fantasy
+    
+}
+
+
+
+input{
+    background: white;
+    color: black;
+   
+     width:250px;
+    height: 20px; 
+}
+
+
+button{
+    color: black;
+    background: white;
+    margin-top: 10px;
+}
+
+
+
+
+footer{
+    margin-top: 227px;
+    padding: 10px;
+    background-image: linear-gradient(to right, rgb(139, 134, 134), rgba(164, 159, 159, 0.596));
+    color: black;
+    font-family: fantasy
+}
+
+
+
+
+.container{
+   background: rgba(164, 159, 159, 0.596);
+   display: block;
+  
+   margin-top: 20vh;
+  margin-left: 75vh;
+  margin-right: 75vh;
+   text-align: center;
+}
